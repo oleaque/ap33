@@ -1,0 +1,1 @@
+ grep -A26 -B1 "SEMANAS"  consumos.txt > file1.txt
